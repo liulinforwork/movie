@@ -1,0 +1,22 @@
+{
+  "apps":[{
+    "name":"Ice",
+    "script":"server.js",
+    "env":{
+
+    },
+    "env_production":{
+
+    }
+  }],
+  "deploy":{
+    "production":{
+      "user":"",
+      "host":"",
+      "ref":"",
+      "repo":"",
+      "path":"",
+      "ssh_options":""
+    }
+  }
+}
